@@ -1,0 +1,34 @@
+{
+  "id": "47ed1a1e-66c6-4522-8fab-3a31028e033c",
+  "name": "app",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "Demo app for the DDC meeting on 4 April 2023",
+  "description": "A demo app showing how to create entitlements",
+  "privacyStatement": "https://my-privacystatement.com",
+  "EULA": "https://my-eula.com",
+  "help": "https://my-help.com",
+  "url": "https://my-ddcapp.com",
+  "logo": "img/icon.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 11237500,
+      "to": 11237509
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ],
+  "contextSensitiveHelpUrl": "https://my-help.com"
+}

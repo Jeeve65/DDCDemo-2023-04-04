@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="app">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3537650312 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DDC Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDC Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3537650312 - Field 2333076789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDC Setup - Field PrimaryKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3537650312 - Field 3614794219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Welcome message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDC Setup - Field WelcomeMessage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3244340212 - Method 1177292603 - NamedType 307722358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Thanks for shopping at DDC !</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DDC Main - Method ShowWelcome - NamedType DefaultWelcomeMessage</note>
+        </trans-unit>
+        <trans-unit id="Page 3537650312 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DDC Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDC Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3537650312 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDC Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3537650312 - Control 3614794219 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This text will be shown after a user successfully opens this page!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDC Setup - Control WelcomeMessage - Property ToolTip</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
