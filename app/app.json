@@ -30,5 +30,6 @@
     "NoImplicitWith",
     "TranslationFile"
   ],
+  "applicationInsightsConnectionString": "InstrumentationKey=6604968b-f604-4bfe-9771-5bf00c36235b;IngestionEndpoint=https://westeurope-2.in.applicationinsights.azure.com/;LiveEndpoint=https://westeurope.livediagnostics.monitor.azure.com/",
   "contextSensitiveHelpUrl": "https://my-help.com"
 }
